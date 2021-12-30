@@ -1,8 +1,9 @@
 git
 bash
-tmux
 vim
 veracrypt
 fusefs-libs3
 exa
 tmux
+hs-pandoc
+owncloudclient
