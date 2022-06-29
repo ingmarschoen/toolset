@@ -59,3 +59,9 @@ fusefs-libs3
 exa
 hs-pandoc
 owncloudclient
+
+# /boot/loader.conf
+kern.vty=vt
+fusefs_load="YES"
+autoboot_delay="2"
+loader_logo="none"
