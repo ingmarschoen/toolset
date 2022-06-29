@@ -52,13 +52,17 @@ xorg
 drm-kmod libva-intel-driver xf86-video-intel
 
 # More
-bash
 keepassxc
+libyubikey
+u2f-devd
+pw group mod u2f -m schoen
+
 veracrypt
 fusefs-libs3
 exa
 hs-pandoc
 owncloudclient
+bash
 
 # /boot/loader.conf
 kern.vty=vt
