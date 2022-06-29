@@ -53,6 +53,7 @@ drm-kmod libva-intel-driver xf86-video-intel
 
 # More
 bash
+keepassxc
 veracrypt
 fusefs-libs3
 exa
